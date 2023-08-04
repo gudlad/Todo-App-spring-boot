@@ -8,5 +8,5 @@ Todo-App-spring-boot is a simple web application built with Spring Boot that all
 - Java 20
 - Spring Boot 3.1
 - Spring Security
-- MySQ
+- MySQL
 - Maven
